@@ -41,6 +41,6 @@
 		"windicss": "^3.5.1"
 	},
 	"engines": {
-		"node": "20.x"
+		"node": "18.x"
 	}
 }
